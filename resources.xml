@@ -1,0 +1,9 @@
+<Views>
+    <View class="TextView" id="lbl_test">
+        <properties>
+            <property name="text" value="test">
+            <property name="color" value="#4A4A4A">
+            <property name="backgroundColor" value="#111111">
+        </properties>    
+    </View>
+</Views>
